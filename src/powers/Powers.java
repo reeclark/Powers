@@ -37,7 +37,3 @@ public class Powers {
 		return;
 	}
 }
-
-/* Sources:
- * https://learn.zybooks.com/zybook/GRANDCIRCUSJAVAAY2018/chapter/4/section/4
- */
